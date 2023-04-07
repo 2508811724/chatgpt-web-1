@@ -1,8 +1,8 @@
 <template>
   <div class="text-neutral-400">
-    <span>Star on</span>
-    <a href="https://github.com/Chanzhaoyu/chatgpt-bot" target="_blank" class="text-blue-500">
-      GitHub
+    <span>来自 于</span>
+    <a href="http://suyuyun.top" target="_blank" class="text-blue-500">
+      苏宇云
     </a>
   </div>
 </template>
