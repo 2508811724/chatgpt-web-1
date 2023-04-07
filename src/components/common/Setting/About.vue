@@ -46,18 +46,18 @@ onMounted(() => {
       </h2>
       <div class="p-2 space-y-2 rounded-md bg-neutral-100 dark:bg-neutral-700">
         <p>
-          此项目开源于
+          此项目隶属于
           <a
             class="text-blue-600 dark:text-blue-500"
-href="http://suyuyun.top"
+            href="http://suyuyun.top"
             target="_blank"
           >
- 访问主页b
+            苏宇云
           </a>
-          ，免费且基于 MIT 协议，没有任何形式的付费行为！
+          ，便宜且好用，聊天记录全程加密，没有任何形式的流氓行为！
         </p>
         <p>
-          如果你觉得此项目对你有帮助，请在 Github 帮我点个 Star 或者给予一点赞助，谢谢！
+          如果你觉得此AI对你有帮助，请在 联系代理 帮我写个反馈将获得不定期高级会员，谢谢！
         </p>
       </div>
       <p>{{ $t("setting.api") }}：{{ config?.apiModel ?? '-' }}</p>
